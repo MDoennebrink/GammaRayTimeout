@@ -1,0 +1,8 @@
+/build-*
+/install
+*.lib
+*.a
+*.user*
+*.qm
+*.o
+*.autosave
